@@ -11,16 +11,16 @@ Estudiante de FP en Animación 2D y 3D
 ### ⌨Programas
 ![image](https://github.com/user-attachments/assets/2cb153c2-79f0-46a2-bea3-4f1cc7286b16)
 
-- Photoshop
-- Figma
-- Maya
+- Photoshop 📸
+- Figma 📱
+- Maya 🧊
 
 ### 🗣Idiomas
 ![image](https://github.com/user-attachments/assets/3ec8526e-5f86-430d-aa7d-e55ce90ae9a3)
 
-- Español
-- Inglés
-- Francés de bajo nivel
+- Español 🥘
+- Inglés 🍔
+- Francés de bajo nivel 🥖
 
 <!--
 **TheHeyro/TheHeyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
