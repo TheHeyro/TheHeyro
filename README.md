@@ -1,5 +1,5 @@
 # Bienvenidos al perfil de Hugo 👋
-## Estudiante de FP en Animación 2D y 3D
+Estudiante de FP en Animación 2D y 3D
 
 - Título de Bachillerato en Ciencias
 - Dos años de Universidad en Diseño y Programación de Videojuegos
