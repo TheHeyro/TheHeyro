@@ -1,5 +1,5 @@
-# Bienvenidos a mi perfil 👋
-
+# Bienvenidos al perfil de Hugo 👋
+## Estudiante de FP en Animación 2D y 3D
 <!--
 **TheHeyro/TheHeyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
