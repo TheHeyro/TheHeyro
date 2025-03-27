@@ -1,17 +1,17 @@
 # Bienvenidos al perfil de Hugo 👋
 Estudiante de FP en Animación 2D y 3D
 
-##📖Estudios
+### 📖Estudios
 - Título de Bachillerato en Ciencias 🧪
 - Dos años de Universidad en Diseño y Programación de Videojuegos 🕹
 - Título de nivel C2 de Inglés 🗣
 
-##⌨Programas
+### ⌨Programas
 - Photoshop
 - Figma
 - Maya
 
-##🗣Idiomas
+### 🗣Idiomas
 - Español
 - Inglés
 - Francés de bajo nivel
